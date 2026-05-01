@@ -19,7 +19,7 @@ poetry install
 ```
 
 ```bash
-poetry run python app/main.py garbage result
+poetry run python app/main.py path/to/source_folder path/to/output_folder
 ```
 
 ### Technical task
